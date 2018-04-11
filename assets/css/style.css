@@ -1,0 +1,7 @@
+body {
+    background-image: url("../images/download.jpeg");
+    background-size: contain; 
+};
+.btn {
+	background-color: green;
+}
