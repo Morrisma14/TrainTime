@@ -14,5 +14,8 @@ https://morrisma14.github.io/TrainTime/
   * Frequency -- in minutes
 
 ## Technologies Used
+- HTML
+- CSS
+- JavaScript
 - Firebase
 - Moment.js
